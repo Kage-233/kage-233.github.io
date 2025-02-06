@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate student in [Fudan University](https://www.fudan.edu.cn/), 
+I am an undergraduate student in [Fudan University](https://www.fudan.edu.cn/), 
 majoring in Statistics, [School of Management](https://www.fdsm.fudan.edu.cn/). 
 
-I am proficient in Python programming, business analysis, and model establishing, with expertise in applying these skills to address
-complex real-world problems.
+I am interested in Python programming, business analysis, and model establishing, with expertise in applying these skills to address complex real-world problems.
 
 You can find my resume here: [Shu Kunjun's Resume](assets/resume.pdf)
 

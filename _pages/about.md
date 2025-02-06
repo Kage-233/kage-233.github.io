@@ -16,4 +16,4 @@ complex real-world problems.
 
 You can find my resume here: [Shu Kunjun's Resume](..assets/resume.pdf)
 
-[Email](mailto:22307130118@m.fudan.edu.cn) / [Github](https://github.com/isKage/) / [Zhihu](https://www.zhihu.com/people/--55-97-8-41)
+[Email](mailto:22307130118@m.fudan.edu.cn) / [Github](https://github.com/isKage/) / [Zhihu](https://www.zhihu.com/people/--55-97-8-41) / [Blog](https://blog.iskage.online/)

@@ -23,11 +23,11 @@ repository               : "Kage-233/Kage-233.github.io"
 author:
   # Biographic information
   avatar           : "https://blog-iskage.oss-cn-hangzhou.aliyuncs.com/images/avatar_new.PNG" # "profile.png"
-  name             : "Shu Kunjun (舒琨峻)"
+  name             : "Shu Kunjun"
   pronouns         : # example: "she/her"  
   bio              : "Statistics, Fudan University"
   location         : "Shanghai, China"
-  employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "22307130118@m.fudan.edu.cn" 
 

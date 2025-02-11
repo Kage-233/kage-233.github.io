@@ -22,7 +22,7 @@ repository               : "Kage-233/Kage-233.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://blog-iskage.oss-cn-hangzhou.aliyuncs.com/images/avatar_new.PNG" # "profile.png"
+  avatar           : "profile.jpeg" # "https://blog-iskage.oss-cn-hangzhou.aliyuncs.com/images/avatar_new.PNG" # "profile.png"
   name             : "Shu Kunjun"
   pronouns         : # example: "she/her"  
   bio              : "Statistics, Fudan University"

@@ -17,7 +17,7 @@ You can find my resume here: [Shu Kunjun's Resume](assets/resume.pdf)
 
 Welcome to visit my Blog: [isKage`Blog](https://blog.iskage.online/)
 
-[Email](mailto:22307130118@m.fudan.edu.cn) / [Github](https://github.com/isKage/) / [Zhihu](https://www.zhihu.com/people/--55-97-8-41)
+[Email](mailto:22307130118@m.fudan.edu.cn) / [Github](https://github.com/isKage/) / [Zhihu](https://www.zhihu.com/people/iskage)
 
 ## EDUCATION
 - BSc in Statistics, Fudan University, 2027 (Expected)
@@ -40,7 +40,7 @@ My Github Account is [isKage](https://github.com/isKage/), and I am sharing some
 
 
 ## Notes
-I am sharing some notes at my blog [isKage`Blog](https://blog.iskage.online/) and [Zhihu](https://www.zhihu.com/people/--55-97-8-41).
+I am sharing some notes at my blog [isKage`Blog](https://blog.iskage.online/) and [Zhihu](https://www.zhihu.com/people/iskage).
 
 - Building Neural Networks with Pytorch: Theory and Practice - [Blog link](https://blog.iskage.online/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-Pytorch-%E5%AE%8C%E6%95%B4%E6%95%99%E7%A8%8B/) or [Zhihu link](https://www.zhihu.com/column/c_1864780737208799232)
 

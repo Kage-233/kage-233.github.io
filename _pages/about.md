@@ -28,7 +28,7 @@ Welcome to visit my Blog: [isKage`Blog](https://blog.iskage.online/)
 
 ## News
 
-- I am currently researching AIMGD (AI Agent) with the goal of leveraging Large Language Models (LLMs) to optimize patient-provider communication, supervised by [Wenwen Li](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012132).
+- I am currently developing an **AI Agent** ([AI Medical General Doctor, AIMGD](https://github.com/isKage/AIMGD)), whose target is to leverage Large Language Models (**LLMs**) to optimize patient-provider communication), supervised by [Wenwen Li](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012132).
 
 ## Some Projects & Github Repositories
 

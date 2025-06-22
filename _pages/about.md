@@ -23,7 +23,7 @@ Welcome to visit my Blog: [isKage`Blog](https://blog.iskage.online/)
 
 ## Education
 
-- BSc in Statistics and Data Science, Fudan University, 2027 (Expected)
+- B.S. in Statistics and Data Science, Fudan University, 2027 (Expected)
 
 
 ## News
@@ -38,7 +38,7 @@ My Github Account is [isKage](https://github.com/isKage/), and I am sharing some
 
 - Applying **LSTM**, I developed a *Stock prediction model based on neural network LSTM*, more information at [my repository](https://github.com/isKage/rnn-quant). (*Notice: This repository is no longer actively maintained*)
 
-- Applying **ResNet18** pre-trained model, I established a classification for **CIFAR-10**, with accuracy rate [0.76750] in [Kaggle competition](https://www.kaggle.com/competitions/cifar-10/). More information at [my repository](https://github.com/isKage/cifar10-classification).
+- Applying **ResNet18** pre-trained model, I established a classification for **CIFAR-10**, with accuracy rate `[0.76750]` in [Kaggle competition](https://www.kaggle.com/competitions/cifar-10/). More information at [my repository](https://github.com/isKage/cifar10-classification).
 
 - Developed a Data-Driven Business Decision Platform using Python and Django, focusing on applying fundamental data structures and algorithms to optimize system performance. More details at [my repository](https://github.com/isKage/bidms-dsa-pj).
 

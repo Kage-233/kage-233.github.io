@@ -11,11 +11,11 @@ redirect_from:
 I am an undergraduate student in [Fudan University](https://www.fudan.edu.cn/en/), 
 majoring in **Statistics and Data Science**.
 
-I am passionate about Machine Learning and Deep Learning, statistical analysis in medical diagnostics, and AI agent development.
+I am passionate about Machine Learning & Deep Learning, Statistical Analysis in Medical Diagnostics, and AI Agent Development.
 
 My research focuses on applying machine learning principles to extract key features and patterns from medical data, aiming to support more accurate and interpretable diagnostics. In parallel, I am also exploring the development of AI agent capable of leveraging large language models (LLMs) to independently complete complex tasks.
 
-You can find my resume here: [Shu Kunjun's Resume](assets/resume.pdf)
+You can find my resume here: [Kunjun Shu's Resume](assets/resume.pdf)
 
 Welcome to visit my Blog: [isKage`Blog](https://blog.iskage.online/)
 
@@ -58,7 +58,7 @@ I am sharing some notes at my blog [isKage`Blog](https://blog.iskage.online/) an
 
 - Building Neural Networks with PyTorch: Theory and Practice - [Blog link](https://blog.iskage.online/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-Pytorch-%E5%AE%8C%E6%95%B4%E6%95%99%E7%A8%8B/) or [Zhihu link](https://www.zhihu.com/column/c_1864780737208799232).
 
-- Data Structure and Introduction to Algorithms: Based on Python - [Blog link](https://blog.iskage.online/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/) or [Zhihu link](https://zhuanlan.zhihu.com/column/c_1876599117028925442).
+- Data Structure and Algorithms: Based on Python - [Blog link](https://blog.iskage.online/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/) or [Zhihu link](https://zhuanlan.zhihu.com/column/c_1876599117028925442).
 
 - Notes on SQL: Based on MySQL - [Blog link](https://blog.iskage.online/categories/MySQL/) or [Zhihu link](https://www.zhihu.com/column/c_1864781236800720896).
 

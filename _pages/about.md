@@ -28,7 +28,7 @@ Welcome to visit my Blog: [isKage`Blog](https://blog.iskage.online/)
 
 ## News
 
-- Research Assistant (**RA**): I am currently developing an **AI Agent** ([AI Medical General Doctor, AIMGD](https://github.com/isKage/AI-Medical-Agent)), whose target is to leverage Large Language Models (**LLMs**) to optimize patient-provider communication), supervised by [Wenwen Li](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012132).
+- **RA** (supervised by [Wenwen Li](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012132)): I am currently developing an **AI Agent** ([AI Medical General Doctor, AIMGD](https://github.com/isKage/AI-Medical-Agent)), whose target is to leverage Large Language Models (**LLMs**) to optimize patient-provider communication). The Project has been in used, website here [https://aimgd.online/](https://aimgd.online/).
 
 ## Some Projects & Github Repositories
 

@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 I am an undergraduate student in [Fudan University](https://www.fudan.edu.cn/en/), 
-majoring in **Statistics and Data Science**.
+majoring in **Statistics and Data Science** (2027 Expected).
 
-I am passionate about Machine Learning & Deep Learning, Statistical Analysis in Medical Diagnostics, and AI Agent Development.
+I am passionate about intersection of Statistics and Machine Learning & Deep Learning, as well as AI Agent Development.
 
-My research focuses on applying machine learning principles to extract key features and patterns from medical data, aiming to support more accurate and interpretable diagnostics. In parallel, I am also exploring the development of AI agent capable of leveraging large language models (LLMs) to independently complete complex tasks.
+My research focuses on applying machine learning principles to enhance the performance of artificial intelligence systems. In parallel, I am also exploring the development of AI agent capable of leveraging large language models (LLMs) to autonomously accomplish complex tasks.
 
 You can find my resume here: [Kunjun Shu's Resume](assets/resume.pdf)
 
@@ -28,29 +28,21 @@ Welcome to visit my Blog: [isKage`Blog](https://blog.iskage.online/)
 
 ## News
 
-- **RA** (supervised by [Wenwen Li](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012132)): I am currently developing an **AI Agent** ([AI Medical General Doctor, AIMGD](https://github.com/isKage/AI-Medical-Agent)), whose target is to leverage Large Language Models (**LLMs**) to optimize patient-provider communication). The Project has been in used, website here [https://aimgd.online/](https://aimgd.online/).
+- **RA** (supervised by [Wenwen Li](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012132)): I have developed an **AI Agent** (AI Medical General Doctor, AIMGD), whose target is to leverage Large Language Models (**LLMs**) to optimize patient-provider communication). The project has undergone preliminary trials in several community hospitals. More information is available on the website: [link](https://aimgd.online/).
 
 ## Some Projects & Github Repositories
 
 My Github Account is [isKage](https://github.com/isKage/), and I am sharing some projects on it.
 
-- Using **Logistic Regression** with **LASSO** regularization, I developed a *Binary Classification Model based on Chest CT Images*. The model achieved an AUC of up to 98.30% on the test dataset. More details are available in [my repository](https://github.com/isKage/r-course-pj).
-
-- Applying **LSTM**, I developed a *Stock prediction model based on neural network LSTM*, more information at [my repository](https://github.com/isKage/rnn-quant). (*Notice: This repository is no longer actively maintained*)
+- Using **Logistic Regression** with **LASSO** regularization, I developed a *Binary Classification Model based on Chest CT Images*. The model achieved an accuracy rate of up to 98.30% on the test dataset (demonstrating comparable performance to CNN while using much fewer parameters). More details are available in [my repository](https://github.com/isKage/r-course-pj).
 
 - Applying **ResNet18** pre-trained model, I established a classification for **CIFAR-10**, with accuracy rate `[0.76750]` in [Kaggle competition](https://www.kaggle.com/competitions/cifar-10/). More information at [my repository](https://github.com/isKage/cifar10-classification).
+
+- Applying **LSTM**, I developed a *Stock prediction model based on neural network LSTM*, more information at [my repository](https://github.com/isKage/rnn-quant). (*Notice: This repository is no longer actively maintained*)
 
 - Developed a Data-Driven Business Decision Platform using Python and Django, focusing on applying fundamental data structures and algorithms to optimize system performance. More details at [my repository](https://github.com/isKage/bidms-dsa-pj).
 
 - Based on **Django + MySQL** framework, I developed a web prototype - *Shared Learning Exchange Platform*, more information at [my repository](https://github.com/isKage/mis).
-
-
-## Other Experiences
-
-- Participate in The Mathematical Contest in Modeling (MCM) & The Interdisciplinary Contest in Modeling [MCM/ICM](https://www.comap.com/contests/mcm-icm). *Sep. 2024 – Oct. 2024*
-
-- Participate in Contemporary Undergraduate Mathematical Contest in Modeling [CUMCM](https://en.mcm.edu.cn/index_en.html). *Jan. 2025 – Feb. 2025*
-
 
 ## Notes
 

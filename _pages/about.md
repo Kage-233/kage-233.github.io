@@ -55,3 +55,5 @@ I am sharing some notes at my blog [isKage`Blog](https://blog.iskage.online/) an
 - Notes on SQL: Based on MySQL - [Blog link](https://blog.iskage.online/categories/MySQL/) or [Zhihu link](https://www.zhihu.com/column/c_1864781236800720896).
 
 - Notes on R Programming: Statistical Analysis Software - [Blog link](https://blog.iskage.online/categories/R-%E8%AF%AD%E8%A8%80/) or [Zhihu link](https://www.zhihu.com/column/c_1876311813261488128).
+
+- Statistical Computing, Optimization Algorithms (Python Implementation): [Github link](https://github.com/isKage/Statistical-Computing).

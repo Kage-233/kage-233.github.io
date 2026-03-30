@@ -11,9 +11,8 @@ redirect_from:
 I am an undergraduate student in [Fudan University](https://www.fudan.edu.cn/en/), 
 majoring in **Statistics and Data Science** (2027 Expected).
 
-I am passionate about intersection of Statistics and Machine Learning & Deep Learning, as well as AI Agent Development.
-
-My research focuses on applying machine learning principles to enhance the performance of artificial intelligence systems. In parallel, I am also exploring the development of AI agent capable of leveraging large language models (LLMs) to autonomously accomplish complex tasks.
+I am passionate about design science research at the intersection of information systems, large language models (LLMs),
+agentic AI, and statistical modeling.
 
 You can find my resume here: [Kunjun Shu's Resume](assets/resume.pdf)
 
@@ -28,7 +27,10 @@ Welcome to visit my Blog: [isKage`Blog](https://blog.iskage.online/)
 
 ## News
 
-- **RA** (supervised by [Wenwen Li](https://www.fdsm.fudan.edu.cn/en/teacher-info.html?UID=012132)): I have developed an **AI Agent** (AI Medical General Doctor, AIMGD), whose target is to leverage Large Language Models (**LLMs**) to optimize patient-provider communication. The project has undergone preliminary trials in several community hospitals. More information is available on the website: [link](https://aimgd.online/).
+- **RA** (supervised by [Wenwen Li](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012132)): I have developed an **AI Agent** (AI Medical General Doctor, AIMGD), whose target is to leverage Large Language Models (**LLMs**) to optimize patient-provider communication. The project has undergone preliminary trials in several community hospitals. More information is available on the website: [link](https://aimgd.online/).
+
+- **TA**: I served as a Teacher Assistant (TA) for the course *Introduction to Data Structure and Algorithms* (by [Zibo Liu](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012559)), assisting in grading assignments and providing feedback to students.
+
 
 ## Some Projects & Github Repositories
 

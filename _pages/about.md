@@ -24,6 +24,13 @@ Welcome to visit my Blog: [isKage`Blog](https://blog.iskage.online/)
 
 - B.S. in Statistics and Data Science, Fudan University, 2027 (Expected)
 
+## Publications
+
+- Accepted at **PACIS 2026** (Pacific-Asia Conference on Information Systems), proceedings forthcoming. *Extent-Med: A Dynamic Decision-Making Approach under Incomplete Information for Community Healthcare* with [Wenwen Li](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012132).
+
+## Working Papers
+
+- Now, I am working with [Wenwen Li](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012132) and [Michael C.L. CHAU](https://www.hkubs.hku.hk/people/michael-c-l-chau/) on a paper: *SEADS: An Uncertainty-Driven Framework for AI-Based Medical Consultation*.
 
 ## News
 

@@ -24,9 +24,8 @@ Welcome to visit my Blog: [isKage`Blog](https://blog.iskage.online/)
 
 - B.S. in Statistics and Data Science, Fudan University, 2027 (Expected)
 
-## Publications
+<!-- ## Publications -->
 
-- Accepted at **PACIS 2026** (Pacific-Asia Conference on Information Systems), proceedings forthcoming. *Extent-Med: A Dynamic Decision-Making Approach under Incomplete Information for Community Healthcare* with [Wenwen Li](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012132).
 
 ## Working Papers
 
